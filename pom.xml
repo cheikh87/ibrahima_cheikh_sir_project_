@@ -4,6 +4,9 @@
   <artifactId>ibrahima_cheikh_project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+  <name>ibrahima_cheikh_project</name>
+  <url>http://maven.apache.org</url>
+  
   
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
